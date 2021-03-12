@@ -52,7 +52,7 @@ public class Main {
     }
 
     /**
-     *  数组 n
+     *  数组 n +
      * @param nums
      * @return
      */
