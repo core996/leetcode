@@ -7,6 +7,9 @@ package L1603_设计停车系统;
  */
 public class Main {
 
+    /**
+     * 变量保存
+     */
     public class ParkingSystem {
 
         int big ;
@@ -28,6 +31,9 @@ public class Main {
         }
     }
 
+    /**
+     * 数组保存
+     */
     public class ParkingSystem1 {
 
         int []park ;
