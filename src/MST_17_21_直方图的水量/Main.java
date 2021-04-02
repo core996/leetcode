@@ -6,7 +6,7 @@ package MST_17_21_直方图的水量;
  * @Date: Create in  2021-04-02 16:42
  */
 public class Main {
-    // todo 动态规划 方法未做出
+    // todo 动态规划 方法未做出1
     public static void main(String[] args) {
 
     }
